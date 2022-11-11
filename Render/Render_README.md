@@ -18,20 +18,20 @@ The first render I produced was the knife in the crime scene. Below you can see 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/71798241/201413270-44afbbbc-a3dc-4829-b3b7-7b74cec329bd.JPG" width="800" height="500" />
 </p>
-<br>
+<br><br>
 2. Door:
 The second object was the door where I simply created using a cube and scaling it to the shape of a door. The police tape that is infront of the door was made by a plane rotated, scaled, and beveled as shown in the scene.
-<br>
+<br><br>
 3. The wall:
 I had the idea to include the word "one" on a wall as a note from the killer in any tv-show as a way to show the audience there would be more coming in the future. I implemented this object through the use of plane and adding a texture to it (found in appendices). Following after I used text to write the word one and used Texture Paint for some blood effect.
-<br>
+<br><br>
 4. Victim:
 One of the hardest objects I faced in this project was the victim's body covered with a white sheet and a hand found on the side. this was due to the usage of sculpting, which was new to me.
 I started the hand with a simple cube and five cylinders representing the wrist and used them to sculpt. The sheet was done through first outlining the body found in the reference picture below then having an animated plane thrown over it to have the thrown effect. I proceeded with sculpting to have some ridges and bumps throughout.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/71798241/201414798-1366e4cf-9bbe-4fa3-b13b-2bcc84c4a9f2.jpeg" width="800" height="500" />
 </p>
-<br>
+<br><br>
 5. Extra objects:
 I decided on the last minute that the scene was a bit too bare, so I decided to add the additional minor objects found in a crime scene such as a couch, broken vase, and a fallen lamp. Also, for the walls I used textures found in appendices and as for the floor Shading option in blender to connect nodes between the colors brown and black to have the effect of a wooden floor
 <p align="center">
