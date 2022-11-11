@@ -21,6 +21,7 @@ The usage of the box collision was to intrepert the camera and also triggered in
 <img src="https://user-images.githubusercontent.com/71798241/201420789-1f48eba6-9733-41cf-b04b-d85ffe8a5f2c.JPG" width="800" height="500" />
 </p>
 
+<br><br>
 
 Camera Setup:
 The scene was filled Cine Camera Actors used in various sequences to perceive multiple shots of the crime scene. Later, in a final level sequence I joined all the shots to be rendered in one video.
