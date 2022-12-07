@@ -26,7 +26,7 @@
 <br>
 #Lighting
 - Ambient, Diffuse and Specular lighting is first declared here.
-<img src="https://user-images.githubusercontent.com/71798241/206273569-3c474ac1-d101-4508-989e-7d7ca5d2d116.pn" width="800" height="500" />
+<img src="https://user-images.githubusercontent.com/71798241/206274218-03ac54c7-f85d-4656-a987-13afad89a103.JPG" width="800" height="500" />
 
 <br><br>
 #Interactivity
